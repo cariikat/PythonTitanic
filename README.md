@@ -9,10 +9,14 @@ validación y análisis de las mismas. El dataset utiliado es el de _Titanic_.
 
 La actividad ha sido realizada de manera individual por **Carina Miriam Zavala Juárez**, katzezavala@gmail.com.
 
+## Set de datos
+
+https://www.kaggle.com/c/titanic
+
 ## Ficheros
 
 Código fuente
-* *src/.*py**: contiene el código para generar el conjunto de datos a partir de la tabla online [Info](https://info.aserca.gob.mx/Porcinos/gp_granja.asp).
+* **src/.*py**: contiene el código para generar el conjunto de datos a partir de la tabla online [Info](https://info.aserca.gob.mx/Porcinos/gp_granja.asp).
 * **pdf/**: se encuentran los archivos html de las prácticas de _Titanic_.
 * **csv/**: se encuentran los dataset de los códigos de _Titanic_.
 
